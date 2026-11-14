@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /thanks/
+Sitemap: https://yokei-architecture-lumi.tenaciousdeck8.chatgpt.site/sitemap.xml
